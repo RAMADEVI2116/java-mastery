@@ -3,7 +3,7 @@ public class Day1Practice {
     //arithmetic
     //type casting
     public static void main(String[] args){
-        /*variable
+        //variable
         int a = 10;
         double b = 23.89356;
         float c = 23.445f;
@@ -13,7 +13,7 @@ public class Day1Practice {
         short g = 3;
         long h = 268733;
         System.out.println("all values : "+a+" "+b+" "+c+" "+d+" "+e+" "+f+" "+g+" "+h);
-        */
+
         /*arithmetic
         int a = 7;
         int b = 3;
