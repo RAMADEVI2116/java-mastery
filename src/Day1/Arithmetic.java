@@ -1,4 +1,6 @@
-public class Day1Arithmetic {
+package Day1;
+
+public class Arithmetic {
     public static void main(String args[]){
         int a = 7;
         int b = 3;

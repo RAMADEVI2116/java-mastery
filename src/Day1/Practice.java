@@ -1,4 +1,6 @@
-public class Day1Practice {
+package Day1;
+
+public class Practice {
     //variable
     //arithmetic
     //type casting

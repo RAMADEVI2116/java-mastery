@@ -1,3 +1,5 @@
+package Day1;
+
 class Day1 {
     public static void main(String a[]){
         int age = 25;

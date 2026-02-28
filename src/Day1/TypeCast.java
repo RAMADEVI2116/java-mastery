@@ -1,4 +1,6 @@
-public class Day1TypeCast {
+package Day1;
+
+public class TypeCast {
     public static void main(String args[]){
         int a = 10;
         double x = (double)a;
